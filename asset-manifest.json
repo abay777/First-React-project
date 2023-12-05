@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1e64259e.css",
+    "main.js": "/static/js/main.33e5013f.js",
+    "static/media/secondBook.jpg": "/static/media/secondBook.a8e6e05190766f6bf765.jpg",
+    "static/media/Jordan Moore.jpg": "/static/media/Jordan Moore.60f6678861bdddd142a6.jpg",
+    "static/media/thirdBook.jpg": "/static/media/thirdBook.feb2eefd10874f2b52b9.jpg",
+    "static/media/fourthBook.jpg": "/static/media/fourthBook.8b8887584cf053277351.jpg",
+    "index.html": "/index.html",
+    "main.1e64259e.css.map": "/static/css/main.1e64259e.css.map",
+    "main.33e5013f.js.map": "/static/js/main.33e5013f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e64259e.css",
+    "static/js/main.33e5013f.js"
+  ]
+}
